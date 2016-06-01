@@ -1,0 +1,1 @@
+{"version":3,"sources":["initialState.js"],"names":[],"mappings":";;;;;kBAAe;AACX,aAAS,EADE;AAEX,aAAS;AAFE,C","file":"initialState-compiled.js","sourcesContent":["export default {\n    authors: [],\n    courses: []\n};"]}
